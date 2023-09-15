@@ -1,3 +1,4 @@
 var weight=50;
 var height=170;
-console.log(weight);
+var ar=[1,2,3];
+console.log(ar[1]);
