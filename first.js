@@ -1,4 +1,4 @@
-var ans = Math.floor(Math.random() * 11);
+var ans = Math.floor(Math.random() * 11);//0-10 => 1-9
 console.log(ans);
 var readline = require("readline-sync");
 
